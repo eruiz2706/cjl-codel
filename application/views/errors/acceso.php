@@ -1,0 +1,1 @@
+<?php if(isset($errormsj))echo $errormsj; ?>
